@@ -1,5 +1,7 @@
 # qr-styled-library
 
+<img width="1462" height="679" alt="Screenshot 2026-04-03 235853" src="https://github.com/user-attachments/assets/84fcae94-f673-4acf-a2b4-9ab4d448bc58" />
+
 Reusable, highly customizable styled QR code components for React applications.
 
 ## Installation
