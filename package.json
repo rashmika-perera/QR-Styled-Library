@@ -1,0 +1,25 @@
+{
+  "name": "qr-styled-library",
+"version": "1.0.0",
+"main": "dist/index.js",
+"types": "dist/index.d.ts",
+"peerDependencies": {
+  "react": "^18.0.0",
+  "react-dom": "^18.0.0"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "qrcode.react": "^4.2.0",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.3"
+  }
+}
